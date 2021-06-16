@@ -38,3 +38,8 @@ I'm Marlom Girardi, and I'm a Software Engineer and I've been working in tech si
 ![PostgresSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 I still need to find more badges 😅
+
+---
+Just a joke 😛
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
