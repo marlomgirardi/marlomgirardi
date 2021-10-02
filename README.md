@@ -11,6 +11,7 @@ Here are some things that I use daily.
 ![JIRA](https://img.shields.io/badge/-Atlassian_Stack-0052CC?style=flat-square&logo=atlassian)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
 ![ReactJS](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js)
